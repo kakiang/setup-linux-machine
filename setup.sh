@@ -1,5 +1,6 @@
 #!/bin/bash
 
+git clone https://github.com/kakiang/setup-linux-machine.git && cd setup-linux-machine
 ./install_python_node.sh
 ./install_zsh.sh
 ./install_vim.sh
