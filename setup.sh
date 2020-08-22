@@ -4,4 +4,4 @@
 ./install_zsh.sh
 ./install_vim.sh
 
-
+ln -sf $HOME/.vim/vimrc $HOME/.vimrc
